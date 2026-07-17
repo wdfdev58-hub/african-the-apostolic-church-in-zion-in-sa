@@ -1,5 +1,18 @@
-Photography: Pexels (hero.jpg, welcome.jpg, moment-1.jpg, moment-2.jpg, moment-3.jpg, visit.jpg)
-Pexels license does not require attribution.
+Photography: Pexels. License does not require attribution, credited here anyway.
+
+hero.jpg — unattributed silhouette/sunset (no people)
+welcome.jpg — MBARAGA BERNARD, "Joyful Celebration in a Vibrant Church Setting"
+moment-1.jpg (Worship) — Megwara Favour, "Energetic Church Choir Singing in Lagos"
+moment-2.jpg (Prayer) — MART PRODUCTION
+moment-3.jpg (Community) — TRIPLE LENS PHOTOGRAPHY
+visit.jpg — unattributed bible/candle still life (no people)
+
+Note: welcome/moment images were re-sourced from the Phase 1 defaults after the operator
+flagged that the original picks (an all-white choir, US election-canvassing volunteers with
+American flags) did not represent this congregation. Re-queried Pexels with explicit "black
+african" search terms and manually reviewed each candidate before choosing — the first pass
+had auto-downloaded top search results without a visual check, which is how the mismatch
+happened. Do that visual review every time, for every church.
 
 logo.png / favicon.png: the church's real F✝A logo, supplied by the operator
 (cropped/trimmed from the source file, no other edits).
