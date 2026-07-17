@@ -62,11 +62,27 @@ Note: the operator's first upload attempt for the logo resolved to an unrelated 
 store — did not use it, asked for a re-upload instead. Worth double-checking any asset the operator
 references by name rather than by direct upload, since filenames collide across churches.
 
+## Phase 2 — Mission section added
+Operator sent the full text. New `#mission` section between Vision and Pillars (matches old
+site's order): "To proclaim the Gospel of Jesus Christ. To baptize believers through full
+immersion in water, and to build Spirit-filled church communities that deliver healing,
+holiness, and hope across South Africa and beyond." — Matthew 28:19–20. Added "Mission" back
+into nav + footer. Also removed a duplicate "Matthew 28:19–20" tag I'd mistakenly put under
+Pillars in the first content pass — that reference belongs to Mission only; the old site's
+Pillars section has no section-level scripture tag of its own, just the per-card refs.
+
+Re-confirmed at full resolution: the old site's "Reach us" card really does just say "Across
+South Africa" — no street, no suburb, nothing more specific in any of the 4 screenshots.
+
 ## Still open — asked the operator, not yet answered
-- **Mission section text** — old site's heading is cut off mid-sentence in the screenshot
-  ("To proclaim the Gospel of Jesus…"). Do not add this section until the full wording arrives.
-- **Real physical address / phone / email** — old site only ever said "Reach us — across South
-  Africa" (not a usable street address) and a "Get in touch" button with no visible target.
-  Map still shows general Kuruman; phone link still the template placeholder `tel:+27000000000`.
-- **Whether the 4 screenshots are the complete old site** — if there's more (ministries,
-  gallery, giving), it hasn't been reflected here yet.
+- **Whether Kuruman is even correct.** The operator questioned this after seeing the live map —
+  worth being precise about where it came from: Kuruman/Northern Cape was given in the
+  *original build brief* (before any Lovable screenshots existed), not from the old site itself
+  (which never names a city — just "across South Africa"). So it's not confirmed by the old
+  site, but it's also not something invented this session. Waiting on the operator to confirm
+  or correct it. **Do not change the city without their explicit confirmation** — several WDF
+  churches share this exact name across different branches/pastors (see CLAUDE.md's slug rule),
+  so getting the branch's real town wrong is a serious mistake, not a cosmetic one.
+- **Real physical street address / phone / email** — still nothing more specific than city-level
+  Kuruman anywhere. Map shows a generic Kuruman-area search, not a precise pin. Phone link still
+  the template placeholder `tel:+27000000000`.
